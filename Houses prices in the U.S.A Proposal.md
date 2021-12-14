@@ -1,8 +1,8 @@
-# Houses prices in the U.S.A
+# Houses prices in the K.S.A(Ryiadh)
 
 # Backstory: 
 
-Residential real estate market In the regions of the United States of America, real estate prices may change dynamically as it is difficult for property owners to measure pricing standards well. In order to facilitate the pricing process for landlords, we decided to develop a solution that aims to predict real estate prices based on a machine learning algorithm. Specifically, we will use a linear regression model. To do this, we will use the century21global website using comprehensive analysis tools. century21global is a website aimed at people who want to sell their homes and people who are looking for real estate.
+In saudi Arabia Residential real estate  has witnessed influctuation particularly , In Ryiadh .In order to facilitate the pricing process for landlords, we decided to develop a solution that aims to predict real estate prices based on a machine learning algorithm. Specifically, we will use a linear regression model. To do this, we will use the Aqar website using comprehensive analysis tools. Aqar is a website aimed at people who want to sell their homes and people who are looking for real estate.
 
 # The dataset: 
 
